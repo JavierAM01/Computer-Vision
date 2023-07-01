@@ -14,3 +14,6 @@ En este repositorio, encontrarás lo siguiente:
  - [2. Face Detection.ipynb](https://github.com/JavierAM01/Computer-Vision/blob/main/Getting-Started/2.%20Face%20Detection.ipynb)
  - [3 . Face Recognition.ipynb](https://github.com/JavierAM01/Computer-Vision/blob/main/Getting-Started/3%20.%20Face%20Recognition.ipynb)
 
+## Image-Classification
+
+ - [Playing with Resnet-50.ipynb](https://github.com/JavierAM01/Computer-Vision/blob/main/Image-Classification/Playing%20with%20Resnet-50.ipynb)

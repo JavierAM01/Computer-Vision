@@ -1,4 +1,4 @@
-# Repositorio de Visión por Computadora
+# Computer Vision
 
 <img align="right" width="40%" src="images/computervision.png"></img>
 
